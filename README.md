@@ -70,7 +70,7 @@
   <a href="https://leetcode.com/u/prakhar965/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=hackerrank&label=&color=2EC866&logoColor=yellow&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-  <a href="www.youtube.com" target="_blank">
+  <a href="https://drive.google.com/file/d/1q8I5BygSLsKE1_xdhduv6hStz-kK9Xi_/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=codepen&label=&color=000000&logoColor=grey&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
 </div>
